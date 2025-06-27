@@ -44,20 +44,44 @@
 
 '''PROBLEM NUMBER 5'''
 
-totalMarks = 95
+# totalMarks = 95
 
-if totalMarks >= 90:
-    print('You got A+')
-elif totalMarks < 90 and totalMarks >= 80: 
-    print('you got A') 
-elif totalMarks < 80 and totalMarks >= 70:
-    print('you got B')
-elif totalMarks < 70 and totalMarks >= 60:
-    print('you got C')
-elif totalMarks < 60 and totalMarks >= 50:
-    print('you got D')
-else:
-    print('you have failed!')
+# if totalMarks >= 90:
+#     print('You got A+')
+# elif totalMarks < 90 and totalMarks >= 80: 
+#     print('you got A') 
+# elif totalMarks < 80 and totalMarks >= 70:
+#     print('you got B')
+# elif totalMarks < 70 and totalMarks >= 60:
+#     print('you got C')
+# elif totalMarks < 60 and totalMarks >= 50:
+#     print('you got D')
+# else:
+#     print('you have failed!')
 
 
 '''PROBLEM NUMBER 6'''
+
+# x = 5
+# y = 10
+# z = 20 
+
+# if x > y and x > z:
+#     print('x is the leargest number')
+# elif y > x and y > z:
+#     print('y is the leargest number')
+# elif z > x and z > y:
+#     print('z is the leargest number')
+# else:
+#     print('please enter a largest value')
+
+
+'''PROBLEM NUMBER 7'''
+
+# currentvalue = ['a', 'e', 'i', 'o', 'u']
+# userInput = input("enter a single latter: ")
+
+# if userInput in currentvalue:
+#     print('Vowel')
+# else:
+#     print('Consonant')
